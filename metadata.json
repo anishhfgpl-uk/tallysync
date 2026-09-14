@@ -1,0 +1,6 @@
+{
+  "name": "AnishTech TallySync & GST Portal",
+  "description": "Enterprise Tally Prime data synchronization, automated debtor and stock item import, invoice generation with buffer queue and direct Tally push, monthly GSTR-1 JSON preparation for GST portal, and real-time sales and payment analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
